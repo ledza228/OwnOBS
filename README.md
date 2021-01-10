@@ -8,3 +8,5 @@ This is main page:
 For capturing your should press Start. And after that recording will start
 If you wanna stop recording you should press Stop
 After some seconds your .gif file will be ready
+
+P.S. PYTHON IS SHITTY LANGUAGE FOR THIS STUFF
